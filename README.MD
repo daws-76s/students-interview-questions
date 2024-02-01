@@ -1,6 +1,6 @@
 ### Interview Questions
 
-**What is Terraform?**
+**What is Terraform?** </br>
 Terraform is a popular IaC (Infrastructure as a Code) tool. It is the best in the market now. It has multiple advantages.
 * Version Control
 Since it is code, we can maintain in Git to version control. We can completely maintain the history of infra and collaboration is easy.
