@@ -16,3 +16,6 @@ When you need infra you can create in minutes. When you don't you can delete in 
 terraform can understand the dependency of resources. It can tell us the dependency clearly.
 * Modular Infra:
 Code reuse. We can develop our own modules our use open source modules to reuse the infra code. instead of spending more time to create infra from the scratch we can reuse modules.
+
+**Sample Questions I faced?** <br/>
+sameple answer
